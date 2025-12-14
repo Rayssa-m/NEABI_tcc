@@ -171,6 +171,12 @@ body {
   transform: translateY(-6px) rotate(-45deg);
 }
 
+.logo-ifcn {
+  height: 65px;
+  width: auto;
+}
+
+
 /* Sections */
 section {
   padding: 4rem 1rem;
@@ -554,3 +560,4 @@ footer p {
     font-size: 1.15rem;
   }
 }
+
